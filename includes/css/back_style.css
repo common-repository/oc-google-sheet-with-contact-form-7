@@ -1,0 +1,147 @@
+h2.cf7glgsheet_heading {
+    color: #25e2c8;
+    font-size: 24px!important;
+    font-weight: bold!important;
+    margin: 0px;
+}
+
+table.Googlesheet_main {
+    width: 100%;
+    display: inline-block;
+    float: left;
+    text-align: left;
+    line-height: 51px;
+}
+
+table.Googlesheet_main {
+    padding: 10px;
+    background: #fff;
+}
+#googlesheet_oc h3 , h3.google_sheet_heading , .glg_out_tag{
+   background: #29decd;
+    margin: 0;
+    margin-top: 20px;
+    padding: 10px;
+    width: 100%;
+    display: inline-block;
+    float: left;
+}
+.cf7glgsheet-form h1 {
+    background: #000;
+    color: #fff;
+    padding: 10px;
+    width: 96%;
+    font-size: 16px;
+}
+.cf7costcaloc_second_main_div , .glg_table_tag {
+    width:100%;
+    display: inline-block;
+    padding: 10px;
+    background: #fff;
+}
+
+img.costcf7oc_rating_div {
+    width: 100px;
+    vertical-align: middle;
+}
+/*CSS for support rating donation multistep start*/
+.cf7costcaloc_rating_div {
+    width: 100px;
+    vertical-align: middle;
+}
+.cf7costcaloc_ratesup_notice_main {
+    display: inline-block;
+    width: 100%;
+}
+.cf7costcaloc_rateus_notice, .cf7costcaloc_support_notice {
+    display: inline-block;
+    width: 45%;
+    float: left;
+    color: #fff;
+    background-color: #fb5f51;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 15px;
+    height: 70px;
+    margin-bottom: 12px;
+}
+
+.cf7costcaloc_rateus_notice h3, .cf7costcaloc_support_notice h3 {
+    color: #fff;
+    margin: 0;
+    margin-bottom: 12px;
+    font-size: 20px;
+}
+.cf7costcaloc_rateus_notice label, .cf7costcaloc_support_notice label {
+    font-size: 16px;
+}
+.cf7costcaloc_support_notice {
+    background-color: #2f3337;
+    margin-left: 2%;
+}
+.cf7costcaloc_rateus_notice a, .cf7costcaloc_support_notice a {
+    color: #fff;
+}
+.cf7costcaloc_rtusnoti_left {
+    display: inline-block;
+    float: left;
+    width: 70%;
+}
+.cf7costcaloc_rtusnoti_right {
+    display: inline-block;
+    float: right;
+    text-align: right;
+}
+.cf7costcaloc_rtusnoti_right img {
+    width: 50px;
+    height: auto;
+}
+.cf7costcaloc_donate_main {
+    background: #fff;
+    padding: 15px;
+    display: flex;
+    width: 94.6%;
+    border: 1px solid #e3bbac;
+    align-items: center;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    margin-top: 15px;
+}
+.cf7costcaloc_donate_main img {
+    height: 32px;
+}
+.cf7costcaloc_donate_main > * {
+    margin: 0 15px 0 0;
+    vertical-align: middle;
+}
+.cf7costcaloc_onate_main h3 {
+    font-size: 15px;
+}
+.cf7costcaloc_donate_form {
+    display: flex;
+}
+.cf7costcaloc_donate_main .button {
+    text-align: center;
+}
+img.cf7costcaloc_rating_div { 
+    width: 100px;
+    vertical-align: middle;
+}
+span.cf7costcaloc_combine_notice {
+    font-size: 13px;
+    font-style: italic;
+    font-weight: 500;
+}
+.cf7costcaloc_ratess_open {
+    width: 100%;
+    display: inline-block;
+    float: left;
+}
+
+/*CSS for support rating donation multistep end*/
+.ocwqv_loading {
+    width: 20%;
+    display: flex;
+}
+img.ocwqv_loader {
+    width: 27px;
+}
